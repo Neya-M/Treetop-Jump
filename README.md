@@ -5,7 +5,7 @@ This was made in Godot with a little bit of Blender and pixel art and some help 
 
 _-such a wonderful frankenstien of code-_
 
-I learned so much about 3D Godot and also how not to store the project files!
+Making this game, I learned a lot about 3D Godot and a little more about blender. It was kind of hard to learn the tools with so many features that I don't know how to use, but I got there in the end :)
 
 ### Play it now
 https://that-blob.itch.io/treetop-jump
